@@ -1,0 +1,9 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0px 10px;
+}
+
+nav a {
+    padding: 4px;
+}
